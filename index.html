@@ -5,42 +5,11 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script src="https://unpkg.com/phosphor-icons"></script>
+	<script src="./src/script/script.js"></script>
 	<title>Sugando uma API</title>
 </head>
 <body>
 	<div class="list">
 	</div>
 </body>
-<script>
-	async function getContent(){
-		try{
-			const response = await fetch('http://localhost:4444/');
-			const data = await response.json()
-			show(data)
-		}catch (error){
-			console.log(error)
-		}
-	}
-
-	getContent()
-
-	function show(filmes){
-		let titles = '';
-		let out = '';
-
-		for(let filme of filmes){
-			titles += `
-				<h1>${filme.nome}</h1>
-			`;
-
-
-			out += `
-				<ul>
-					<li><img src="${filme.foto}" /></li>
-				</ul>
-			`;
-		}
-		document.querySelector('.list').innerHTML = titles + out;
-	}
-</script>
 </html>
