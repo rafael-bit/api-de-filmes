@@ -1,4 +1,7 @@
-# API de filmes consumida no Front-end
-# API de filmes consumida no Back-end
+# API de filmes
 
-### Consumo simples de API usando o Fetch e o axios
+<hr/>
+
+### API de filmes consumida no Back-end e no Front-end
+
+<p> Consumo simples de API usando o Fetch e o Axios além de criar a API usando express/Node.js </p>
