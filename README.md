@@ -32,7 +32,7 @@ npm install
 To start the express server, run the following
 
 ```bash
-npm run start:dev
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and take a look around.
+Open [http://localhost:4444](http://localhost:4444) and take a look around.
