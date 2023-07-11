@@ -1,0 +1,72 @@
+[
+      {
+        "id": "1",
+        "nome": "V de Vingança",
+        "foto": "https://img.ibxk.com.br/2012/2/materias/61832066810152250.jpg?ims=704x",
+        "descricao": "Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas como V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca de liberdade e justiça para o seu país.",
+        "elenco": "Hugo Weaving, Natalie Portman"
+      },
+      {
+        "id": "2",
+        "nome": "Vingadores Guerra Infinita",
+        "foto": "https://i.pinimg.com/736x/63/c7/41/63c741c433aa938eadafdbd386e4e676.jpg",
+        "descricao": "Em Vingadores: Guerra Infinita, Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.",
+        "elenco": "Tom Holland, Chris Evans, Scarlett Johansson, Robert Downey Jr"
+      },
+      {
+        "id": "3",
+        "nome": "Black Summer",
+        "foto": "https://i.pinimg.com/736x/e6/5a/3a/e65a3a4a13f4c0533bc1a74dd38673fb.jpg",
+        "descricao": "Nos primeiros dias de um sombrio apocalipse zumbi, estranhos se unem para sobreviver e voltar para aqueles que amam.",
+        "elenco": "Jaime King, Justin Chu Cary, Christine Lee"
+      },
+      {
+        "id": "4",
+        "nome": "A Era do Gelo 4",
+        "foto": "https://i.pinimg.com/originals/71/63/5e/71635ee4e257edbef3f71e60b8226749.jpg",
+        "descricao": "A louca perseguição de Scrat sempre à caça de sua noz inquieta - perseguição à qual ele tem se dedicado desde os primórdios dos tempos - tem consequências que mudam o mundo e causam um cataclismo continental que leva Manny, Diego e Sid a viverem a maior aventura de todos os tempos.",
+        "elenco": "Alessandra Vieira, Angélica Borges, Carolina Vieira, Christiane Louise, Carlos Gesteira"
+      },
+      {
+        "id": "5",
+        "nome": "The Witcher",
+        "foto": "https://i.pinimg.com/736x/6c/40/3e/6c403ecb280e490fc89d6c58439158a4.jpg",
+        "descricao": "O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.",
+        "elenco": "Henry Cavill, Anya Chalotra, Freya Allan"
+      },
+      {
+        "id": "6",
+        "nome": "O Mentalista",
+        "foto": "https://i.pinimg.com/originals/69/d2/ab/69d2ab8af047c6698ddeb7af447d96e6.jpg",
+        "descricao": "Um famoso (médium) se autointitula e começa a trabalhar como consultor do California Bureau of Investigation para encontrar (Red John), o louco que matou sua esposa e filha.",
+        "elenco": "Amanda Righetti, Owain Yeoman, Tim Kang,Robin Tunney, Simon Baker"
+      },
+      {
+        "id": "7",
+        "nome": "Narcos",
+        "foto": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "descricao": "A notória série sobre o tráfico é baseada na história real de violência e poder dos cartéis colombianos.",
+        "elenco": "Wagner Moura, Pedro Pascal, Boyd Holbrook"
+      },
+      {
+        "id": "8",
+        "nome": "Gente Grande",
+        "foto": "https://br.web.img3.acsta.net/c_310_420/pictures/210/299/21029996_20130821205722213.jpg",
+        "descricao": "A notória série sobre o tráfico é baseada na história real de violência e poder dos cartéis colombianos.",
+        "elenco": "Adam Sandler, Chris Rock, Kevin James, David Spade"
+      },
+      {
+        "id": "9",
+        "nome": "Projeto Almanaque",
+        "foto": "https://play-lh.googleusercontent.com/8W_V3LmjOfz5Cngv4OnTyg48L-mOmahWySluDwNK9vJ6qns0G_lBfNvWl6um2z2yiFkm",
+        "descricao": "A notória série sobre o tráfico é baseada na história real de violência e poder dos cartéis colombianos.",
+        "elenco": "Jonny Weston, Allen Evangelista, Sam Lerner"
+      },
+      {
+        "id": "10",
+        "nome": "Bee Movie",
+        "foto": "https://i.pinimg.com/originals/de/b9/e4/deb9e4cf015295f86e8e609ffcab7263.jpg",
+        "descricao": "A recém-formada abelha Barry acha a vida de trabalhar com mel desinteressante. Ele voa fora da colmeia pela primeira vez e conversa com um humano, quebrando uma primordial regra de sua espécie. Barry descobre que humanos têm roubado e comido mel há séculos e decide processar a humanidade.",
+        "elenco": "Jerry Seinfeld, Renée Zellweger, Patrick Warburton"
+      }
+]
